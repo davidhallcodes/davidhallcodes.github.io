@@ -1,0 +1,32 @@
+<html>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>Fred Rogers</h1>
+      <h2>20 Mar 1928 - 27 Feb 2003</h2>
+    </header>
+    <div class="main">
+      <figure><img src="https://user-images.githubusercontent.com/47066250/72644001-e8d0ae80-393d-11ea-8105-0820862f0823.jpg" alt="Mr. Rogers sitting with Trolley">
+        <figcaption>
+          Mr. Rogers sitting with Trolley
+        </figcaption>
+      </figure>
+      <div class="aside">
+        When I was growing up, Mr. Rogers' Neighborhood was a constant in my world. I felt like I was too old for puppets and <em>make believe</em>, but I was young enough to be enamored with some of the things he would show his viewers, like a crayon
+        factory.
+        <br>
+        <br> As I grew older, I came to appreciate the subtle way he helped me keep from walking down a different path. I've come to understand why Fred was the way he was, and how he grew up. Fred Rogers' neighborhood is <em>my</em> neighborhood. And
+        it's <em>your</em> neighborhood, too.
+        <br>
+        <br> To learn more about Fred Rogers and his Foundation, <a href="#">click here</a>!
+      </div>
+    </div>
+
+    <footer>
+      &copy; Copyright 2020 | <a href="https://davidchall.com">David C. Hall</a>
+      <footer/>
+  </div>
+</body>
+
+</html>
