@@ -175,10 +175,7 @@ footer li {
   text-align: center;
 }
 
-@media (max-width: 550px),
-@media (max-width: 640px),
-@media (max-width: 480px),
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   p {
     text-align: left;
   }
