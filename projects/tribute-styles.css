@@ -1,0 +1,98 @@
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    color: #5995DA;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: .5;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+figcaption {
+    font-size: 14px;
+}
+
+h1,
+h2 {
+    font-family: 'Spicy Rice', cursive;
+    font-weight: 300;
+    color: #5995DA;
+    letter-spacing: 5px;
+
+}
+
+.links,
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.header-container {
+    color: #5995DA;
+    background-color: #D6E9FE;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header {
+    width: 900px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .photo-grid-container {
+      display: flex;
+      justify-content: center;
+  }
+
+  .photo-grid {
+      width: 900px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-items: center;
+  }
+
+  .photo-grid-item-1 {
+      padding: 20px;
+      justify-content: flex-start;
+  }
+
+  .photo-grid-item-2 {
+    padding: 20px;
+    justify-content: flex-end;
+}
+
+  .footer {
+      background-color: #D6E9FE;
+      display: flex;
+      justify-content: center;
+      height: 50px;
+      line-height: 48px;
+  }
+
+  .links-section {
+      background-color: #F2D4AE;
+      width: 100%;
+      margin-top: 10px;
+      padding: 25px;
+  }
+
+  @media screen and (max-width: 480px) {
+      img {
+          width: 300px;
+      }
+  }
